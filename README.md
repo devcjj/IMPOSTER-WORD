@@ -1,6 +1,6 @@
 # Whispers of the Imposter (base)
 
-Offline single-device imposter word party game. **Minimal base**: functionality only, default Flutter UI, no theme. 
+Offline single-device imposter word party game. 
 
 ---
 
@@ -51,5 +51,4 @@ State is in `GameService` (Provider). Screens use `context.read<GameService>()` 
 - `flutter` (SDK)
 - `provider` (state)
 
-No theme package; default Material only.
 "# IMPOSTER-WORD" 
