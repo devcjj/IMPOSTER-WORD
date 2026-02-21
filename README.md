@@ -1,6 +1,6 @@
 # Whispers of the Imposter (base)
 
-Offline single-device imposter word party game. **Minimal base**: functionality only, default Flutter UI, no theme. Suitable for **beginners** and for a **team of three** to build from in parallel.
+Offline single-device imposter word party game. **Minimal base**: functionality only, default Flutter UI, no theme. 
 
 ---
 
@@ -23,9 +23,6 @@ lib/
     voting_screen.dart
     results_screen.dart
 ```
-
-See **`lib/TEAM_STRUCTURE.md`** for how three people can work on this in parallel (who owns which folder, how to avoid merge conflicts).
-
 ---
 
 ## How to run
